@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.List;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Application {
     public static void main(String[] args){
